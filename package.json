@@ -1,1 +1,12 @@
-{"name": "timestamp-microservice", "main": "server.js"}
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Timestamp Microservice Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
